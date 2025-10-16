@@ -1,6 +1,6 @@
 # C_Mini_Projects
 
-## 3 amazing projects using C programming 
+##  Amazing projects using C programming 
 
 
 ### Project 1: Simple Calculator (Basic Operators)
