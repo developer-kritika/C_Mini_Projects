@@ -41,6 +41,6 @@ int main() {
             printf("Invalid choice!\n");
     }
 
-    printf("=== Program by SK Sahil ===\n");
+    printf("=== Program by Kritika ===\n");
     return 0;
 }
