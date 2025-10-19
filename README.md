@@ -21,3 +21,8 @@
 
 #### Project 5: Temparature Converter 
 <img width="360" height="184" alt="1760589149917117214608011259174" src="https://github.com/user-attachments/assets/833b1904-27a6-4117-95a7-bfdb378d03ba" />
+
+#### Project 6: ATM Simulation Machine
+
+<img width="516" height="517" alt="image" src="https://github.com/user-attachments/assets/ede5dea4-ad68-4bec-8e74-da60cdf4c5e3" />
+
