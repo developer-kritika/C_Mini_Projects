@@ -26,3 +26,6 @@
 
 <img width="516" height="517" alt="image" src="https://github.com/user-attachments/assets/ede5dea4-ad68-4bec-8e74-da60cdf4c5e3" />
 
+#### Project 7: Quiz Game 
+
+<img width="575" height="570" alt="QUIZ" src="https://github.com/user-attachments/assets/3c92a0fa-fb8a-4207-8d2f-95cbea5cbb39" />
